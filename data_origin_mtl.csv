@@ -1,0 +1,201 @@
+Origin,Destination,Rate / 100 lbs,Carrier
+Montreal,Toronto,51.5,Company A
+Montreal,Montreal,52,Company A
+Montreal,Vancouver,52.5,Company A
+Montreal,Calgary,53,Company A
+Montreal,Edmonton,53.5,Company A
+Montreal,Ottawa–Gatineau,54,Company A
+Montreal,Winnipeg,54.5,Company A
+Montreal,Quebec City,55,Company A
+Montreal,Hamilton,55.5,Company A
+Montreal,Kitchener,56,Company A
+Montreal,London,56.5,Company A
+Montreal,Victoria,57,Company A
+Montreal,Halifax,57.5,Company A
+Montreal,Oshawa,58,Company A
+Montreal,Windsor,58.5,Company A
+Montreal,Saskatoon,59,Company A
+Montreal,St. Catharines - Niagara Falls,59.5,Company A
+Montreal,Regina,60,Company A
+Montreal,St. John's,60.5,Company A
+Montreal,Kelowna,61,Company A
+Montreal,Barrie,61.5,Company A
+Montreal,Sherbrooke,62,Company A
+Montreal,Guelph,62.5,Company A
+Montreal,Kanata,63,Company A
+Montreal,Abbotsford,63.5,Company A
+Montreal,Trois-Rivières,64,Company A
+Montreal,Kingston,64.5,Company A
+Montreal,Milton,65,Company A
+Montreal,Moncton,65.5,Company A
+Montreal,White Rock,66,Company A
+Montreal,Nanaimo,66.5,Company A
+Montreal,Brantford,67,Company A
+Montreal,Chicoutimi - Jonquière,67.5,Company A
+Montreal,Saint-Jérôme,68,Company A
+Montreal,Red Deer,68.5,Company A
+Montreal,Thunder Bay,69,Company A
+Montreal,Lethbridge,69.5,Company A
+Montreal,Kamloops,70,Company A
+Montreal,Sudbury,70.5,Company A
+Montreal,Saint-Jean-sur-Richelieu,71,Company A
+Montreal,Peterborough,71.5,Company A
+Montreal,Chilliwack,72,Company A
+Montreal,Châteauguay,72.5,Company A
+Montreal,Belleville,73,Company A
+Montreal,Sarnia,73.5,Company A
+Montreal,Airdrie,74,Company A
+Montreal,Drummondville,74.5,Company A
+Montreal,Welland - Pelham,75,Company A
+Montreal,Fort McMurray,75.5,Company A
+Montreal,Prince George,76,Company A
+Montreal,Sault Ste. Marie,76.5,Company A
+Montreal,Fredericton,77,Company A
+Montreal,Saint John,77.5,Company A
+Montreal,Medicine Hat,78,Company A
+Montreal,Grande Prairie,78.5,Company A
+Montreal,Granby,79,Company A
+Montreal,Bowmanville - Newcastle,79.5,Company A
+Montreal,Beloeil,80,Company A
+Montreal,Charlottetown,80.5,Company A
+Montreal,Vernon,81,Company A
+Montreal,North Bay,81.5,Company A
+Montreal,Saint-Hyacinthe,82,Company A
+Montreal,Brandon,82.5,Company A
+Montreal,Joliette,83,Company A
+Montreal,Courtenay,83.5,Company A
+Montreal,Cornwall,84,Company A
+Montreal,Victoriaville,84.5,Company A
+Montreal,Woodstock,85,Company A
+Montreal,St. Thomas,85.5,Company A
+Montreal,Chatham,86,Company A
+Montreal,Georgetown,86.5,Company A
+Montreal,Salaberry-de-Valleyfield,87,Company A
+Montreal,Spruce Grove,87.5,Company A
+Montreal,Shawinigan,88,Company A
+Montreal,Rimouski,88.5,Company A
+Montreal,Bradford,89,Company A
+Montreal,Campbell River,89.5,Company A
+Montreal,Penticton,90,Company A
+Montreal,Prince Albert,90.5,Company A
+Montreal,Stouffville,91,Company A
+Montreal,Sorel,91.5,Company A
+Montreal,Mission,92,Company A
+Montreal,Leamington,92.5,Company A
+Montreal,Orangeville,93,Company A
+Montreal,Leduc,93.5,Company A
+Montreal,Orillia,94,Company A
+Montreal,Stratford,94.5,Company A
+Montreal,Moose Jaw,95,Company A
+Montreal,Cochrane,95.5,Company A
+Montreal,Lloydminster,96,Company A
+Montreal,Cape Breton - Sydney,96.5,Company A
+Montreal,Okotoks,97,Company A
+Montreal,Innisfil,97.5,Company A
+Montreal,Timmins,98,Company A
+Montreal,Saint-Georges,98.5,Company A
+Montreal,Parksville,99,Company A
+Montreal,Keswick - Elmhurst Beach,99.5,Company A
+Montreal,Fort Saskatchewan,100,Company A
+Montreal,Bolton,100.5,Company A
+Montreal,Midland,101,Company A
+Montreal,Toronto,101.5,Company B
+Montreal,Montreal,102,Company B
+Montreal,Vancouver,102.5,Company B
+Montreal,Calgary,103,Company B
+Montreal,Edmonton,103.5,Company B
+Montreal,Ottawa–Gatineau,104,Company B
+Montreal,Winnipeg,104.5,Company B
+Montreal,Quebec City,105,Company B
+Montreal,Hamilton,105.5,Company B
+Montreal,Kitchener,106,Company B
+Montreal,London,106.5,Company B
+Montreal,Victoria,107,Company B
+Montreal,Halifax,107.5,Company B
+Montreal,Oshawa,108,Company B
+Montreal,Windsor,108.5,Company B
+Montreal,Saskatoon,109,Company B
+Montreal,St. Catharines - Niagara Falls,109.5,Company B
+Montreal,Regina,110,Company B
+Montreal,St. John's,110.5,Company B
+Montreal,Kelowna,111,Company B
+Montreal,Barrie,111.5,Company B
+Montreal,Sherbrooke,112,Company B
+Montreal,Guelph,112.5,Company B
+Montreal,Kanata,113,Company B
+Montreal,Abbotsford,113.5,Company B
+Montreal,Trois-Rivières,114,Company B
+Montreal,Kingston,114.5,Company B
+Montreal,Milton,115,Company B
+Montreal,Moncton,115.5,Company B
+Montreal,White Rock,116,Company B
+Montreal,Nanaimo,116.5,Company B
+Montreal,Brantford,117,Company B
+Montreal,Chicoutimi - Jonquière,117.5,Company B
+Montreal,Saint-Jérôme,118,Company B
+Montreal,Red Deer,118.5,Company B
+Montreal,Thunder Bay,119,Company B
+Montreal,Lethbridge,119.5,Company B
+Montreal,Kamloops,120,Company B
+Montreal,Sudbury,120.5,Company B
+Montreal,Saint-Jean-sur-Richelieu,121,Company B
+Montreal,Peterborough,121.5,Company B
+Montreal,Chilliwack,122,Company B
+Montreal,Châteauguay,122.5,Company B
+Montreal,Belleville,123,Company B
+Montreal,Sarnia,123.5,Company B
+Montreal,Airdrie,124,Company B
+Montreal,Drummondville,124.5,Company B
+Montreal,Welland - Pelham,125,Company B
+Montreal,Fort McMurray,125.5,Company B
+Montreal,Prince George,126,Company B
+Montreal,Sault Ste. Marie,126.5,Company B
+Montreal,Fredericton,127,Company B
+Montreal,Saint John,127.5,Company B
+Montreal,Medicine Hat,128,Company B
+Montreal,Grande Prairie,128.5,Company B
+Montreal,Granby,129,Company B
+Montreal,Bowmanville - Newcastle,129.5,Company B
+Montreal,Beloeil,130,Company B
+Montreal,Charlottetown,130.5,Company B
+Montreal,Vernon,131,Company B
+Montreal,North Bay,131.5,Company B
+Montreal,Saint-Hyacinthe,132,Company B
+Montreal,Brandon,132.5,Company B
+Montreal,Joliette,133,Company B
+Montreal,Courtenay,133.5,Company B
+Montreal,Cornwall,134,Company B
+Montreal,Victoriaville,134.5,Company B
+Montreal,Woodstock,135,Company B
+Montreal,St. Thomas,135.5,Company B
+Montreal,Chatham,136,Company B
+Montreal,Georgetown,136.5,Company B
+Montreal,Salaberry-de-Valleyfield,137,Company B
+Montreal,Spruce Grove,137.5,Company B
+Montreal,Shawinigan,138,Company B
+Montreal,Rimouski,138.5,Company B
+Montreal,Bradford,139,Company B
+Montreal,Campbell River,139.5,Company B
+Montreal,Penticton,140,Company B
+Montreal,Prince Albert,140.5,Company B
+Montreal,Stouffville,141,Company B
+Montreal,Sorel,141.5,Company B
+Montreal,Mission,142,Company B
+Montreal,Leamington,142.5,Company B
+Montreal,Orangeville,143,Company B
+Montreal,Leduc,143.5,Company B
+Montreal,Orillia,144,Company B
+Montreal,Stratford,144.5,Company B
+Montreal,Moose Jaw,145,Company B
+Montreal,Cochrane,145.5,Company B
+Montreal,Lloydminster,146,Company B
+Montreal,Cape Breton - Sydney,146.5,Company B
+Montreal,Okotoks,147,Company B
+Montreal,Innisfil,147.5,Company B
+Montreal,Timmins,148,Company B
+Montreal,Saint-Georges,148.5,Company B
+Montreal,Parksville,149,Company B
+Montreal,Keswick - Elmhurst Beach,149.5,Company B
+Montreal,Fort Saskatchewan,150,Company B
+Montreal,Bolton,150.5,Company B
+Montreal,Midland,151,Company B
